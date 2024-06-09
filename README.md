@@ -45,3 +45,8 @@ Other tools and libraries used in the project include:
 
 Curious to see the Movie App Playground in action? Check out our live demo [here](https://netflix404.ccbp.tech) and have fun exploring the world of movies in a playful environment! 🚀🎥
 
+-user cred
+  username: rahul
+  password: rahul@2021entials:
+
+
